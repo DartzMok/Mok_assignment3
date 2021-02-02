@@ -1,0 +1,35 @@
+Mok_assignment3:
+total 12
+drwxr-xr-x 2 ugrad 4096 Mar 15 10:21 CircularLinkedList
+drwxr-xr-x 2 ugrad 4096 Mar 15 10:20 DoublyLinkedList
+-rw-r--r-- 1 ugrad  233 Mar 15 10:24 README.txt
+-rw-r--r-- 1 ugrad    0 Mar 15 10:25 rec22448
+
+Mok_assignment3/CircularLinkedList:
+total 228
+-rw-r--r-- 1 ugrad  3143 Mar 14 11:28 CircularLinkedList.cpp
+-rw-r--r-- 1 ugrad   672 Mar  5 18:13 CircularLinkedList.h
+-rw-r--r-- 1 ugrad 45712 Mar 14 11:28 CircularLinkedList.o
+-rw-r--r-- 1 ugrad    26 Mar  5 18:07 input.txt
+-rw-r--r-- 1 ugrad   484 Mar  3 18:03 ItemType.cpp
+-rw-r--r-- 1 ugrad   637 Mar  3 16:01 ItemType.h
+-rw-r--r-- 1 ugrad 38432 Mar 13 22:12 ItemType.o
+-rw-r--r-- 1 ugrad  1560 Mar 15 10:20 main.cpp
+-rw-r--r-- 1 ugrad 43536 Mar 15 10:21 main.o
+-rwxr-xr-x 1 ugrad 66167 Mar 15 10:21 main.out
+-rw-r--r-- 1 ugrad   607 Mar  5 18:05 Makefile
+
+Mok_assignment3/DoublyLinkedList:
+total 228
+-rw-r--r-- 1 ugrad  3291 Mar 15 10:12 DoublyLinkedList.cpp
+-rw-r--r-- 1 ugrad   769 Mar 13 22:18 DoublyLinkedList.h
+-rw-r--r-- 1 ugrad 46520 Mar 15 10:12 DoublyLinkedList.o
+-rw-r--r-- 1 ugrad    26 Mar 14 11:17 input.txt
+-rw-r--r-- 1 ugrad   484 Mar  9 10:21 ItemType.cpp
+-rw-r--r-- 1 ugrad   637 Mar  9 10:20 ItemType.h
+-rw-r--r-- 1 ugrad 38432 Mar 13 22:12 ItemType.o
+-rw-r--r-- 1 ugrad  1675 Mar 15 10:19 main.cpp
+-rw-r--r-- 1 ugrad 44192 Mar 15 10:19 main.o
+-rwxr-xr-x 1 ugrad 66833 Mar 15 10:19 main.out
+-rw-r--r-- 1 ugrad   569 Mar 13 22:12 Makefile
+/home/ugrads/mok/Mok_assignment3:/home/work/cs2720b
